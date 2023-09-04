@@ -6,7 +6,9 @@ fun main(){
     var number = 1
 
     while (number < 21){
-        println(number)
+        print(number)
         number++
     }
 }
+//output
+//1234567891011121314151617181920

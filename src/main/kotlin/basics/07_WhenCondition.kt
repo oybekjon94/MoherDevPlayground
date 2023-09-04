@@ -14,10 +14,10 @@ fun main(){
         else -> println("Access denied")
     }
     // ozgartirib foydalansa xam boladi
-    when{
-        name == "Oybek" -> println("Hii $name")
-        name == "Alli" -> println("Hello $name")
-        name == "Bekki" -> println("Hello $name")
-        else -> println("Access denied")
-    }
+//    when{
+//        name == "Oybek" -> println("Hii $name")
+//        name == "Alli" -> println("Hello $name")
+//        name == "Bekki" -> println("Hello $name")
+//        else -> println("Access denied")
+//    }
 }

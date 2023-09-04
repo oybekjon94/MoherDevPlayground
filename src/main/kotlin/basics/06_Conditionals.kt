@@ -1,7 +1,7 @@
 package basics
 
 /*
-Conditionals => xar xil shartlar quyishga aytiladi
+Conditionals => xar xil shartlar quyishga foydalaniladi
 Kotlin has the following conditionals:
 
 Use if to specify a block of code to be executed, if a specified condition is true
@@ -11,7 +11,6 @@ Use when to specify many alternative blocks of code to be executed
  */
 fun main(){
     print("What is your name?: ")
-    print("What is your surname?: ")
 
     val name = readLine()
 
