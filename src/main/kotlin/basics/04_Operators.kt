@@ -50,7 +50,7 @@ fun main(){
 
         println(!true)
 
-        //우선순위 => (),!,&&,||
+        // (),!,&&,||
         println(true || true && false || !true)
         println((true || true) && false || !true)
 
